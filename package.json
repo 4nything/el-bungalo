@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/4nything/el-bungalo/issues"
   },
-  "homepage": "https://github.com/4nything/el-bungalo#readme"
+  "homepage": "https://github.com/4nything/el-bungalo#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }
